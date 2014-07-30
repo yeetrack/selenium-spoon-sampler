@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Browser Compatibility Test Cases--firefox" failures="0" tests="3" time="77.194" errors="0">
+  <properties/>
+  <testcase name="qunarTest" time="12.494" classname="com.yeetrack.selenium.test.BrowserTest"/>
+  <testcase name="osChinaTest" time="14.587" classname="com.yeetrack.selenium.test.BrowserTest"/>
+  <testcase name="osChinaTest" time="16.443" classname="com.yeetrack.selenium.test.BrowserTest"/>
+</testsuite>

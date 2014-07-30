@@ -1,0 +1,38 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Browser Compatibility Test Cases--firefox">
+      <class name="com.yeetrack.selenium.test.BrowserTest">
+        <test-method status="PASS" signature="osChinaTest(java.lang.String)" name="osChinaTest" duration-ms="16443" started-at="2014-07-30T15:30:20Z" finished-at="2014-07-30T15:30:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomcat]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="qunarTest()" name="qunarTest" duration-ms="12494" started-at="2014-07-30T15:29:32Z" finished-at="2014-07-30T15:29:44Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="10824" started-at="2014-07-30T15:30:10Z" finished-at="2014-07-30T15:30:20Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="11942" started-at="2014-07-30T15:29:20Z" finished-at="2014-07-30T15:29:32Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="10894" started-at="2014-07-30T15:29:44Z" finished-at="2014-07-30T15:29:55Z">
+        </test-method>
+        <test-method status="PASS" signature="osChinaTest(java.lang.String)" name="osChinaTest" duration-ms="14587" started-at="2014-07-30T15:29:55Z" finished-at="2014-07-30T15:30:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apache]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
